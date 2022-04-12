@@ -1,0 +1,26 @@
+{
+  "name": "pizza-hunt",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.2.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstable1/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jstable1/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/jstable1/pizza-hunt#readme",
+  "description": ""
+}
